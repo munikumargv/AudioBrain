@@ -1,0 +1,4 @@
+safesound.db*
+__pycache__/
+.pytest_cache/
+_site/
